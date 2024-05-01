@@ -30,20 +30,58 @@
 
 </div>
 
-### Hi there 👋
+# Hi here 👋
+
+<table align="center">
+  <tr><td>
+    
+  ### 🤺 About Me
+  
+  <p>&emsp;&emsp;嗨，大家好，我是leven-comeon。热爱编程、读书、旅行。</p>
+  <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+  <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+  
+  </td></tr>
+  
+  <tr><td>
+  
+  ### 🏢 Education Experience
+  
+  <img align="right" width="88" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Zhejiang_University_Logo.svg/150px-Zhejiang_University_Logo.svg.png" />
+  
+  - [浙江大学](https://www.zju.edu.cn/) &emsp; 📌 2023-09-15 —— Now
+    - 专业：电子信息
+    - 学位：硕士研究生
+  
+  <img align="right" width="88" src="https://upload.wikimedia.org/wikipedia/en/6/6c/UESTC_xiaohui.png" />
+  
+  - [电子科技大学](https://www.uestc.edu.cn/) &emsp; 📌 2019-09-01 —— 2023-06-30
+    - 专业：计算机科学与技术
+    - 学位：本科
+  
+  </td></tr>
+
+  <tr><td>
+
+  
+</table>
 
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=leven-comeon" /> </div>
 
-<div align="center"> 
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=leven-comeon&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leven-comeon&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
-</div>
+  <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=leven-comeon" /></div>
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=leven-comeon" /> </div>
+  <div align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=leven-comeon&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leven-comeon&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
+  </div>
 
-<div align="center"> <img src="https://stats.justsong.cn/api/leetcode?username=leven-tr&cn=true&theme=gruvbox&lang=zh-CN" /> </div>
+  <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leven-comeon" />
+  </div>
 
+  <div align="center">
+  <img src="https://stats.justsong.cn/api/leetcode?username=leven-tr&cn=true&theme=gruvbox&lang=zh-CN" />
+  </div>
 
 <!--
 **leven-comeon/leven-comeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
