@@ -24,7 +24,9 @@
     <img src="https://komarev.com/ghpvc/?username=leven-comeon&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
   
-  
+  <picture>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/leven-comeon/leven-comeon/main/assets/github-contribution-grid-snake.svg"> 
+  </picture>
 
 </div>
 
