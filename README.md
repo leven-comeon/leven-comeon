@@ -57,7 +57,7 @@
 
 ### 🧰 Experience
 
-- **ByteDance** · Full-time
+- **ByteDance** · FTE
 - **Alibaba** · Intern · 2025.05 — 2025.08
 - **ByteDance** · Intern · 2024.10 — 2025.03
 - **Meituan** · Intern · 2024.05 — 2024.10
