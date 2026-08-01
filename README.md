@@ -44,26 +44,12 @@
 
 <table>
   <tr>
-    <td width="88" valign="top">
-      <img src="./assets/zju.svg" width="72" alt="ZJU" />
-    </td>
-    <td valign="top">
-
-**[浙江大学](https://www.zju.edu.cn/)** · 2023.09 — 2026.03  
-电子信息 · 硕士研究生
-
-    </td>
+    <td width="88" valign="top"><img src="./assets/zju.svg" width="72" alt="ZJU" /></td>
+    <td valign="middle"><a href="https://www.zju.edu.cn/"><b>浙江大学</b></a> · 2023.09 — 2026.03<br/>电子信息 · 硕士研究生</td>
   </tr>
   <tr>
-    <td width="88" valign="top">
-      <img src="./assets/uestc.png" width="72" alt="UESTC" />
-    </td>
-    <td valign="top">
-
-**[电子科技大学](https://www.uestc.edu.cn/)** · 2019.09 — 2023.06  
-计算机科学与技术 · 本科
-
-    </td>
+    <td width="88" valign="top"><img src="./assets/uestc.png" width="72" alt="UESTC" /></td>
+    <td valign="middle"><a href="https://www.uestc.edu.cn/"><b>电子科技大学</b></a> · 2019.09 — 2023.06<br/>计算机科学与技术 · 本科</td>
   </tr>
 </table>
 
