@@ -57,10 +57,10 @@
 
 ### 🧰 Experience
 
-- **字节跳动** · 全职
-- **阿里控股** · Intern · 2025.05 — 2025.08
-- **字节跳动** · Intern · 2024.10 — 2025.03
-- **美团** · Intern · 2024.05 — 2024.10
+- **ByteDance** · Full-time
+- **Alibaba** · Intern · 2025.05 — 2025.08
+- **ByteDance** · Intern · 2024.10 — 2025.03
+- **Meituan** · Intern · 2024.05 — 2024.10
 
 ---
 
