@@ -49,7 +49,7 @@
   
   <img align="right" width="88" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Zhejiang_University_Logo.svg/150px-Zhejiang_University_Logo.svg.png" />
   
-  - [浙江大学](https://www.zju.edu.cn/) &emsp; 📌 2023-09-15 —— Now
+  - [浙江大学](https://www.zju.edu.cn/) &emsp; 📌 2023-09-15 —— 2026.03.30
     - 专业：电子信息
     - 学位：硕士研究生
   
