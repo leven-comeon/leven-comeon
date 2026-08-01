@@ -1,109 +1,101 @@
 <div align="center">
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-    <a href="https://leven-comeon.github.io">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);leven-comeon祝您今天愉快!&center=true&size=27" />
-    </a>
-  </div>
 
-  <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
+<!-- Typing SVG: encode Chinese; `;` separates animated lines -->
+<a href="https://leven-comeon.github.io">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=520&height=50&size=22&lines=console.log(%22Hello%2C%20World%22)%3B;%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E6%84%9A%E5%BF%AB%21" alt="Typing SVG" />
+</a>
 
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
+<br/>
 
-  <!-- profile logo 个人资料徽标 -->
-  <div>
-    <a href="https://leven-comeon.github.io"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <a href="assets/QR.JPG"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=leven-comeon&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-  </div>
-  
-  <picture>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/leven-comeon/leven-comeon/main/assets/github-contribution-grid-snake.svg"> 
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/developer.svg" />
+  <img src="./assets/coding.gif" alt="coding" width="480" />
+</picture>
+
+<br/>
+
+<p>
+  <a href="https://leven-comeon.github.io"><img src="https://img.shields.io/badge/Website-%E5%8D%9A%E5%AE%A2-8c36db" alt="Website" /></a>
+  &nbsp;
+  <a href="./assets/QR.JPG"><img src="https://img.shields.io/badge/WeChat-%E5%BE%AE%E4%BF%A1-07c160" alt="WeChat" /></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=leven-comeon&label=Views&color=orange&style=flat" alt="Profile views" />
+</p>
+
+<img alt="GitHub contribution chart" src="https://ghchart.rshah.org/409cff/leven-comeon" />
+
+<br/>
+
+<img alt="GitHub activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leven-comeon&bg_color=ffffff&color=58a6ff&line=58a6ff&point=2463eb&area=true&hide_border=true" />
 
 </div>
 
-# Hi here 👋
+---
 
-<table align="center">
-  <tr><td>
-    
-  ### 🤺 About Me
-  
-  <p>&emsp;&emsp;嗨，大家好，我是leven-comeon。热爱编程、读书、旅行。</p>
-  <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-  <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-  
-  </td></tr>
-  
-  <tr><td>
-  
-  ### 🏢 Education Experience
-  
-  <img align="right" width="88" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Zhejiang_University_Logo.svg/150px-Zhejiang_University_Logo.svg.png" />
-  
-  - [浙江大学](https://www.zju.edu.cn/) &emsp; 📌 2023-09-15 —— 2026.03.30
-    - 专业：电子信息
-    - 学位：硕士研究生
-  
-  <img align="right" width="88" src="https://upload.wikimedia.org/wikipedia/en/6/6c/UESTC_xiaohui.png" />
-  
-  - [电子科技大学](https://www.uestc.edu.cn/) &emsp; 📌 2019-09-01 —— 2023-06-30
-    - 专业：计算机科学与技术
-    - 学位：本科
-  
-  </td></tr>
+### 🤺 About Me
 
-  <tr><td>
-  
-  ### 🧰 Intern Experience
-  
-  - 美团 &emsp; 📌 2024-05 —— 2024-10
+嗨，大家好，我是 **leven**。热爱编程、读书、旅行。
 
-  - 字节跳动 &emsp; 📌 2024-10 —— 2025-03
+目前是 **ByteDance** 软件工程师，关注 MLSys / AI Infra。希望用可复用、可延展的代码，把事情做得更稳、更好。
 
-  - 阿里控股 &emsp; 📌 2025-05 —— 2025-08
-  
-  </td></tr>
+---
 
-  
+### 🏢 Education
+
+<table>
+  <tr>
+    <td width="88" valign="top">
+      <img src="./assets/zju.svg" width="72" alt="ZJU" />
+    </td>
+    <td valign="top">
+
+**[浙江大学](https://www.zju.edu.cn/)** · 2023.09 — 2026.03  
+电子信息 · 硕士研究生
+
+    </td>
+  </tr>
+  <tr>
+    <td width="88" valign="top">
+      <img src="./assets/uestc.png" width="72" alt="UESTC" />
+    </td>
+    <td valign="top">
+
+**[电子科技大学](https://www.uestc.edu.cn/)** · 2019.09 — 2023.06  
+计算机科学与技术 · 本科
+
+    </td>
+  </tr>
 </table>
 
+---
 
+### 🧰 Experience
 
-  <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=leven-comeon" /></div>
+- **字节跳动** · Software Engineer
+- **阿里控股** · Intern · 2025.05 — 2025.08
+- **字节跳动** · Intern · 2024.10 — 2025.03
+- **美团** · Intern · 2024.05 — 2024.10
 
-  <div align="center">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=leven-comeon&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leven-comeon&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
-  </div>
+---
 
-  <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leven-comeon" />
-  </div>
+### 📊 GitHub Stats
 
-  <div align="center">
-  <img src="https://stats.justsong.cn/api/leetcode?username=leven-tr&cn=true&theme=gruvbox&lang=zh-CN" />
-  </div>
+<div align="center">
 
-<!--
-**leven-comeon/leven-comeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leven-comeon&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leven-comeon&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Top languages" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leven-comeon&theme=vue" alt="Summary stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leven-comeon&theme=vue" alt="Repos per language" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=leven-comeon&theme=default&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://stats.justsong.cn/api/leetcode?username=leven-tr&cn=true&theme=gruvbox&lang=zh-CN" alt="LeetCode stats" />
+
+</div>
